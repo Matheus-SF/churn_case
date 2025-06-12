@@ -49,7 +49,7 @@ Assim, esse projeto tem por objetivo avaliar uma base de dados de uma pesquisa r
 
 ![Agrupamento](Imagens/clusters_psicológicos.png)
 ![Distribuição de Idade](Imagens/distribuicao_age.png)
-![BoxPlot](Imagens/stress.png)
+![BoxPlot](Imagens/boxplot_stress.png)
 
 ---
 
