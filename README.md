@@ -47,9 +47,9 @@ Assim, esse projeto tem por objetivo avaliar uma base de dados de uma pesquisa r
 
 # Exemplos de Visualizações
 
-![Agrupamento](imagens/clusters_psicológicos.png)
-![Distribuição de Idade](imagens/distribuicao_age.png)
-![BoxPlot](imagens/stress.png)
+![Agrupamento](Imagens/clusters_psicológicos.png)
+![Distribuição de Idade](Imagens/distribuicao_age.png)
+![BoxPlot](Imagens/stress.png)
 
 ---
 
