@@ -1,6 +1,6 @@
 # Previsão de Churn e Comportamentos de Desligamento Silencioso em Colaboradores
 ---
-**Todas as análises detalhadas, gráficos interativos e etapas de modelagem estão disponíveis no notebook .ipynb. Recomenda-se sua leitura para uma compreensão completa dos resultados.**
+**Todas as análises detalhadas, gráficos, comentários de raciocínio e etapas de modelagem estão disponíveis no notebook churn_case.ipynb. Recomenda-se sua leitura para uma compreensão completa dos resultados.**
 ---
 
 # Introdução
