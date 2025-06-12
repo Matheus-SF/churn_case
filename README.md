@@ -5,6 +5,25 @@ Este projeto utiliza técnicas de EDA e machine learning para identificar colabo
 **Todas as análises detalhadas, gráficos, comentários de raciocínio e etapas de modelagem estão disponíveis no notebook churn_case.ipynb. Recomenda-se sua leitura para uma compreensão completa dos resultados.**
 ---
 
+# Resumo
+
+1. Contexto
+- Alta rotatividade em empresas, especialmente entre jovens (Geração Z e Millennials).
+- Fatores psicológicos como estresse e satisfação no trabalho são cruciais para entender o churn.
+
+2. Metodologia
+- Clusterização para segmentar perfis de risco.
+- Modelos de machine learning (Random Forest, XGBoost, Logistic Regression) para previsão.
+
+3. Principais resultados
+- Modelos Random Forest e XGBoost alcançaram 100% de acurácia, indicando forte separabilidade dos grupos.
+- Perfil de alto risco: baixa satisfação, alto estresse e baixo equilíbrio trabalho-vida.
+- Implicações práticas
+- Identificação precoce de comportamentos como quiet quitting e rage applying.
+- Possibilidade de intervenções direcionadas para retenção.
+
+---
+
 # Introdução
 
 Nos últimos 3 anos, diversas tendências com resultados negativos têm se popularizado entre jovens da geração Z e Millenial, termos como "Quiet Quitting" , "Rage Applying" e "Revenge Quitting" descrevem um comportamento silencioso de revolta relacionados a desconexão emocional e motivacional com o trabalho, esgotamento, falta de reconhecimento ou baixa qualidade de vida, por exemplo:
@@ -19,8 +38,6 @@ Ocorre quando funcionários se demitem impulsivamente de uma empresa motivados p
 Define funcionários que buscam novas oportunidades de emprego não por estarem pragmaticamente buscando novas oportunidades, mas por estarem frustrados com o atual ambiente de trabalho.
 
 Eventualmente, todas esses termos convergem para o mesmo ponto: desligamentos abruptos do ambiente de trabalho, causando queda de produtividade, desmotivação em cadeia e reputação negativa da empresa. Uma empresa que investe anos de recurso capacitando um profissional por exemplo, pode se deparar no dia seguinte com a perda de um talento estratégico que poderia ter sido evitado.
-
-
 
 ---
 
