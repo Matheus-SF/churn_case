@@ -2,7 +2,7 @@
 ---
 **Todas as análises detalhadas, gráficos interativos e etapas de modelagem estão disponíveis no notebook .ipynb. Recomenda-se sua leitura para uma compreensão completa dos resultados.**
 ---
-#Introdução
+##Introdução
 
 Nos últimos 3 anos, diversas tendências com resultados negativos têm se popularizado entre jovens da geração Z e Millenial, termos como "Quiet Quitting" , "Rage Applying" e "Revenge Quitting" descrevem um comportamento silencioso de revolta relacionados a desconexão emocional e motivacional com o trabalho, esgotamento, falta de reconhecimento ou baixa qualidade de vida, por exemplo:
 
@@ -21,7 +21,7 @@ Assim, esse projeto tem por objetivo avaliar uma base de dados de uma pesquisa r
 
 ---
 
-# Etapas
+## Etapas
 
 1. Entendimento dos Dados
 2. Análise Exploratória dos Dados
@@ -35,7 +35,7 @@ Assim, esse projeto tem por objetivo avaliar uma base de dados de uma pesquisa r
     
 ---
 
-#Ferramentas
+##Ferramentas
 - Python 
 - Pandas, Scikit-learn, XGBoost
 - Seaborn, Matplotlib
@@ -43,11 +43,14 @@ Assim, esse projeto tem por objetivo avaliar uma base de dados de uma pesquisa r
 
 ---
 
-#Exemplos de Visualizações
+##Exemplos de Visualizações
+![Agrupamento](imagens/clusters_psicológicos)
+![Distribuição de Idade](imagens/distribuicao_age)
+![BoxPlot](imagens/stress)
 
 ---
 
-#Resultados e Discussão
+##Resultados e Discussão
 
 A análise preditiva sobre o risco de churn (rotatividade voluntária) revelou padrões comportamentais e emocionais relevantes, que foram capturados tanto pelas análises estatísticas quanto pelos modelos de machine learning.
 
@@ -76,7 +79,7 @@ A Regressão Logística, modelo linear mais simples, teve desempenho competitivo
 
 Isso indica que o risco de churn não é totalmente linear, mas ainda assim previsível com base nas variáveis selecionadas.
 
-#Conclusão
+##Conclusão
 
 O modelo de previsão de churn, que classifica os colaboradores com maior risco (valor 1) baseado em variáveis como estresse, equilíbrio trabalho-vida (WLB), satisfação no trabalho e horas de treinamento, apresentou alta capacidade de identificar grupos vulneráveis à rotatividade.
 
