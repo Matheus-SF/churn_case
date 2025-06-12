@@ -1,5 +1,5 @@
 # Previsão de Churn e Comportamentos de Desligamento Silencioso em Colaboradores
-
+---
 Este projeto utiliza técnicas de EDA e machine learning para identificar colaboradores com alto risco de churn, explorando variáveis psicológicas e demográficas. O objetivo é fornecer insights acionáveis para reduzir turnover e melhorar o engajamento, conectando análises quantitativas com comportamentos emergentes como quiet quitting e rage applying.
 ---
 **Todas as análises detalhadas, gráficos, comentários de raciocínio e etapas de modelagem estão disponíveis no notebook churn_case.ipynb. Recomenda-se sua leitura para uma compreensão completa dos resultados.**
